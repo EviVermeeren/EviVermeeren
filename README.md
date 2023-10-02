@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [evivermeeren.com](evivermeeren.com)
 
-- 📫 How to reach me **evivermeeren@hotmail.com**
+- 📫 You can reach me via **evivermeeren@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
