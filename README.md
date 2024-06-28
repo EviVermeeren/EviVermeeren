@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evi Vermeêren</h1>
 <h3 align="center">Student XD @ Thomas More</h3>
 
-- 🔭 I’m currently working on [Yogism](https://github.com/EviVermeeren/Yogism)
+- 🔭 I’m currently working on [Yogism](https://github.com/ArneSamson/LAB3_Yogism_App)
 
 - 🌱 I’m currently learning **Vue.js, Node.js, MongoDB, SASS**
 
